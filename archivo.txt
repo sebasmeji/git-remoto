@@ -1,1 +1,3 @@
-Hola como estas desde vscode
+las matematicas son geniales
+>>>>>>> test1
+nueva linea agragada en la rama1

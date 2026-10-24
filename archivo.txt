@@ -1,2 +1,3 @@
-inlgles es requerido
+las matematicas son geniales
+>>>>>>> test1
 nueva linea agragada en la rama1
